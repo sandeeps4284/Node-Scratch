@@ -12,11 +12,11 @@ Build on v8 JavaScript engine
 
 Written in c++
 
-# To knew node before
+# To knew things before starting node
 
-javascript fundamentals
+Javascript fundamentals
 
-http
+Http
 
 JSON
 
@@ -37,4 +37,24 @@ Event driven,non-blocking io model
 Works on single thread using non blocking I/O calls
 
 Support tens of thousands of concurrent connections
+
+# Contents
+
+Node basics
+
+Module 
+
+Path
+
+File System
+
+OS
+
+URL
+
+Events
+
+HTTP
+
+
 
